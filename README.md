@@ -1,5 +1,6 @@
 # ReelVue
 Project #1 for Tucson Coding Bootcamp
+This project was a collaborative effort by four developers at the Unversity of Arizona Coding Bootcamp
 
 ### Description
 Our application provides information to movie fans regarding their favorite
